@@ -1,3 +1,2 @@
-https://github.com/tflores/applied-data-science-capstone/tree/master
 
-https://github.com/evgenyzorin/IBM-Applied-Data-Science-Capstone/blob/main/ds-capstone-presentation.pdf
+
